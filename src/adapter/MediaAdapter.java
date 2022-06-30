@@ -2,7 +2,7 @@ package adapter;
 
 public class MediaAdapter implements MediaPlayer {
 
-    AdvancedMediaPlayer advancedMusicPlayer;
+    private AdvancedMediaPlayer advancedMusicPlayer;
 
     public MediaAdapter(String audioType) {
 

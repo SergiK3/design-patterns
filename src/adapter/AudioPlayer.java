@@ -1,7 +1,7 @@
 package adapter;
 
 public class AudioPlayer implements MediaPlayer {
-    MediaAdapter mediaAdapter;
+    private  MediaAdapter mediaAdapter;
 
     @Override
     public void play(String audioType, String fileName) {

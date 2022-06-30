@@ -1,17 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5e9b8194-4f44-4908-98fe-76f527b54127" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/adapter/AdvancedMediaPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/adapter/AudioPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/adapter/MediaAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/adapter/MediaPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/adapter/Mp4Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/adapter/VlcPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Main.java" afterDir="false" />
+    <list default="true" id="5e9b8194-4f44-4908-98fe-76f527b54127" name="Changes" comment="adapter">
+      <change afterPath="$PROJECT_DIR$/src/facade/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/facade/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/facade/Square.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1656594347087</updated>
-      <workItem from="1656594348282" duration="1896000" />
+      <workItem from="1656594348282" duration="2233000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1656594374011</created>
@@ -66,7 +59,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656594374011</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="adapter">
+      <created>1656596447656</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1656596447656</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,7 +85,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="adapter" />
+    <option name="LAST_COMMIT_MESSAGE" value="adapter" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
