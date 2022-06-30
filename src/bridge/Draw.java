@@ -1,5 +1,5 @@
 package bridge;
 
-public interface DrawAPI {
+public interface Draw {
     void drawCircle(int radius);
 }

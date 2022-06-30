@@ -3,12 +3,12 @@ package bridge;
 public class Circle extends Shape {
     private int radius;
 
-    public Circle(int radius, DrawAPI drawAPI) {
-        super(drawAPI);
+    public Circle(int radius, Draw draw) {
+        super(draw);
         this.radius = radius;
     }
 
     public void draw() {
-        drawAPI.drawCircle(radius);
+        draw.drawCircle(radius);
     }
 }
